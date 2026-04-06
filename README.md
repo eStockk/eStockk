@@ -2,6 +2,16 @@
 
 ## QA Manual Engineer & DevOps
 
-![Flutter](https://img.shields.io/badge/-Postman-785117?style-for-the-badge&logo=postman)
+### Languages and Tools
+![Postman](https://img.shields.io/badge/-Postman-090909?style-for-the-badge&logo=postman)
+![Jira](https://img.shields.io/badge/-Jira-090909?style-for-the-badge&logo=jira)
+![Swagger](https://img.shields.io/badge/-Swagger-090909?style-for-the-badge&logo=Swagger)
+![Github](https://img.shields.io/badge/-Github-090909?style-for-the-badge&logo=Github)
+![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style-for-the-badge&logo=Fiddler)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style-for-the-badge&logo=AndroidStudio)
+![Figma](https://img.shields.io/badge/-Figma-090909?style-for-the-badge&logo=Figma)
+![MYSQL](https://img.shields.io/badge/-MySql-090909?style-for-the-badge&logo=MySql)
+![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-090909?style-for-the-badge&logo=CharlesProxy)
+![Confluence](https://img.shields.io/badge/-Confluence-090909?style-for-the-badge&logo=Confluence)
 
 Follow Me
