@@ -21,4 +21,3 @@
 [![Twitter](https://img.shields.io/badge/-e_eStockk-090909?style-for-the-badge&logo=X)](https://x.com/e_eStockk)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style-for-the-badge)](https://www.linkedin.com/in/paul-harris-b1671a3b3/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
