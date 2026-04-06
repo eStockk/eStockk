@@ -13,5 +13,8 @@
 ![MYSQL](https://img.shields.io/badge/-MySql-090909?style-for-the-badge&logo=MySql)
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-090909?style-for-the-badge&logo=CharlesProxy)
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style-for-the-badge&logo=Confluence)
+![Youtrack](https://img.shields.io/badge/-Youtrack-090909?style-for-the-badge&logo=Youtrack)
+![Python](https://img.shields.io/badge/-Python-090909?style-for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo=JavaScript)
 
 Follow Me
