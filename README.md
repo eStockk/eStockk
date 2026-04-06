@@ -17,4 +17,5 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style-for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo=JavaScript)
 
-Follow Me
+### Follow Me
+[![Twitter](https://img.shields.io/badge/-e_eStockk-090909?style-for-the-badge&logo=X)](https://x.com/e_eStockk)
